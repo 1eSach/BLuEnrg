@@ -1,0 +1,2 @@
+sensor.c:65:6:Set_DeviceConnectable	1
+sensor.c:116:6:APP_UserEvtRx	10
